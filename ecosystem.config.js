@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'app',
+      name: 'Strapi Admin',
       script: 'yarn',
       args: 'start',
     },
