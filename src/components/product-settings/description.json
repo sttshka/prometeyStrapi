@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_product_settings_descriptions",
+  "info": {
+    "displayName": "description",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "season_offers",
+  "info": {
+    "singularName": "season-offer",
+    "pluralName": "season-offers",
+    "displayName": "SeasonOffer",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "offer": {
+      "displayName": "offer",
+      "type": "component",
+      "repeatable": true,
+      "component": "offer.offer"
+    }
+  }
+}

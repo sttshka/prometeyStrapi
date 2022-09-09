@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_popular_category_popular_categories",
+  "info": {
+    "displayName": "PopularCategory",
+    "icon": "bolt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}

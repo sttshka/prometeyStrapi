@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_product_settings_sizes",
+  "info": {
+    "displayName": "size",
+    "icon": "arrows-alt-v"
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

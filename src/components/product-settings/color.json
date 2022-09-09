@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_product_settings_colors",
+  "info": {
+    "displayName": "color",
+    "icon": "palette"
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "string",
+      "required": true,
+      "default": "#"
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

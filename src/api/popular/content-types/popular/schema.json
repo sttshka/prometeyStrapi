@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "populars",
+  "info": {
+    "singularName": "popular",
+    "pluralName": "populars",
+    "displayName": "Popular",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "category": {
+      "displayName": "PopularCategory",
+      "type": "component",
+      "repeatable": true,
+      "component": "popular-category.popular-category"
+    }
+  }
+}
