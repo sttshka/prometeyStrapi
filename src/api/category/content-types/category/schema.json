@@ -81,6 +81,9 @@
       "relation": "oneToMany",
       "target": "api::product-card.product-card",
       "mappedBy": "category"
+    },
+    "tags": {
+      "type": "richtext"
     }
   }
 }

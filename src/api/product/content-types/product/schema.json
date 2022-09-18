@@ -60,6 +60,9 @@
       "type": "component",
       "repeatable": true,
       "component": "product-settings.description"
+    },
+    "tags": {
+      "type": "richtext"
     }
   }
 }
